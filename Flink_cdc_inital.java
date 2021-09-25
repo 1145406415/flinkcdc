@@ -45,8 +45,8 @@ public class Flink_cdc_inital {
         Integer port = 3307;
         String databaseList = "xianchang,xianchang_bj,xianchang_chengdu,xianchang_gz,xianchang_hive,xianchang_hz,xianchang_hzdata,xianchang_sh,xianchang_tj,xianchang_wh";
         String tableList = null;
-        String username = "bigdata";
-        String password = "hkbihTrekCgbvfj4";
+        String username = "";
+        String password = "";
         String job_name = "flink_3307_xianchang_city";
 
         Properties extralPro = new Properties();
